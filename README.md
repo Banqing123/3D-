@@ -60,6 +60,7 @@
 </body>
 </html>
 
+<style>
 body{margin: 0;padding: 0;font-size: 12px;font-family: "SourceHanSansSC-Light","Microsoft Yahei",微软雅黑,
 "Helvetica Neue",Arial,sans-serif;width: 100%;/* [disabled]color:#757575; */background: #F6F6F6;background: #f0f0f0;}
 html,dl,dt,dd,ul,ol,li,h1,h2,h4,h5,h6,pre,form,fieldset,input,textarea,blockquote,p,img{padding:0; margin:0;}
@@ -102,3 +103,4 @@ left: 0;display: block;width: 100%;height: 100%;}
 .banner-ul li a:hover .font1{background-color:#51938F;background-size: 10px 10px;}							
 .banner-ul ul{position: absolute;text-align: left;line-height: 40px;font-size: 14px;width: 200px;transition: all 0.3s ease-in;transform-origin: 0px 0px;transform: rotateX(-90deg);overflow: hidden;}	
 .banner-ul li:hover ul{display: block;transform: rotateX(0deg);}
+</style>
